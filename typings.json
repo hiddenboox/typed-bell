@@ -1,0 +1,5 @@
+{
+  "name": "hapi",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/hapijs/hapi"
+}
