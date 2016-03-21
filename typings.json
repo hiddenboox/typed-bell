@@ -1,5 +1,5 @@
 {
-  "name": "hapi",
+  "name": "bell",
   "main": "index.d.ts",
   "homepage": "https://github.com/hapijs/hapi",
   "ambientDependencies": {
