@@ -1,6 +1,6 @@
-# Typed Hapi
+# Typed bell
 
-The type definition for [`hapi`](https://github.com/hapijs/hapi).
+The type definition for [`bell`](https://github.com/hapijs/bell).
 
 # LICENSE
 
