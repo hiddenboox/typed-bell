@@ -1,5 +1,8 @@
 {
   "name": "hapi",
   "main": "index.d.ts",
-  "homepage": "https://github.com/hapijs/hapi"
+  "homepage": "https://github.com/hapijs/hapi",
+  "ambientDependencies": {
+    "hapi": "registry:dt/hapi#13.0.0+20160316155526"
+  }
 }
